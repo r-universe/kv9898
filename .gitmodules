@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "resultcheck"]
+	path = resultcheck
+	url = https://github.com/kv9898/resultcheck
